@@ -14,8 +14,8 @@
 
 print (" Hey Everybody")
 print ("my name is Anamul Hasan")
-print ("Please Answer the following question")
-print("Thanks")
+
+
 
 name = input('name: ')
 age = int(input('age: '))
